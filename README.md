@@ -7,3 +7,4 @@ This is the starter files for a React Typescript project.
 - React
 - TypeScript
 - Styled Components
+- GitHub Pages
