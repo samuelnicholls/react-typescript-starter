@@ -6,5 +6,7 @@ This is the starter files for a React Typescript project.
 
 - React
 - TypeScript
-- Styled Components
+- React Router
 - GitHub Pages
+- ESLint
+- Prettier
